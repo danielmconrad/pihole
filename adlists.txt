@@ -1,0 +1,7 @@
+# Blocklists, one URL per line. `make deploy` adds new ones and removes any you
+# delete from this file. Lists added by hand in the web UI are left alone.
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# More aggressive option if you want it:
+# https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
